@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import numpy as np
 from collections import Counter
 
 # pass in number of words as first argument
